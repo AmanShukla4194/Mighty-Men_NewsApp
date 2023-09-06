@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mighty-Men_NewsApp/static/css/main.073c9b0a.css",
+    "main.js": "/Mighty-Men_NewsApp/static/js/main.eed564b3.js",
+    "static/js/787.4c026eef.chunk.js": "/Mighty-Men_NewsApp/static/js/787.4c026eef.chunk.js",
+    "static/media/spin.gif": "/Mighty-Men_NewsApp/static/media/spin.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Mighty-Men_NewsApp/index.html",
+    "main.073c9b0a.css.map": "/Mighty-Men_NewsApp/static/css/main.073c9b0a.css.map",
+    "main.eed564b3.js.map": "/Mighty-Men_NewsApp/static/js/main.eed564b3.js.map",
+    "787.4c026eef.chunk.js.map": "/Mighty-Men_NewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eed564b3.js"
+  ]
+}
